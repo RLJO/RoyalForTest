@@ -99,3 +99,8 @@
 	path = WithPrice/accioma-addons
 	url = git@github.com:WithPrice/accioma-addons.git
 	branch = 12.0
+
+[submodule "WithPrice/odoo12-project-management"]
+	path = WithPrice/odoo12-project-management
+	url = git@github.com:WithPrice/odoo12-project-management.git
+	branch = master
