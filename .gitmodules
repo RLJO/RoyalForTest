@@ -109,3 +109,8 @@
 	path = OCA/server-tools
 	url = git@github.com:OCA/server-tools.git
 	branch = 12.0
+
+[submodule "WithPrice/Kare"]
+	path = WithPrice/Kare
+	url = git@github.com:WithPrice/Kare.git
+	branch = master
