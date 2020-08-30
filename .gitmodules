@@ -94,3 +94,8 @@
 	path = aged02
 	url = https://github.com/RL-OtherApps/aged02.git
 	branch = 12.0
+
+[submodule "WithPrice/micronaet-logistic"]
+	path = WithPrice/micronaet-logistic
+	url = git@github.com:WithPrice/micronaet-logistic.git
+	branch = master
