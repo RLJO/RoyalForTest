@@ -99,3 +99,8 @@
 	path = WithPrice/micronaet-logistic
 	url = git@github.com:WithPrice/micronaet-logistic.git
 	branch = master
+
+[submodule "odoo-modules/Kare"]
+	path = odoo-modules/Kare
+	url = git@github.com:odoo-modules/Kare.git
+	branch = master
