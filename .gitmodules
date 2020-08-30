@@ -104,3 +104,8 @@
 	path = odoo-modules/Kare
 	url = git@github.com:odoo-modules/Kare.git
 	branch = master
+
+[submodule "OCA/server-tools"]
+	path = OCA/server-tools
+	url = git@github.com:OCA/server-tools.git
+	branch = 12.0
