@@ -104,3 +104,8 @@
 	path = WithPrice/odoo12-project-management
 	url = git@github.com:WithPrice/odoo12-project-management.git
 	branch = master
+
+[submodule "WithPrice/Office365"]
+	path = WithPrice/Office365
+	url = git@github.com:WithPrice/Office365.git
+	branch = master
