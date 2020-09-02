@@ -2,3 +2,8 @@
 	path = RLJO/Royalline
 	url = git@github.com:RLJO/Royalline.git
 	branch = rrr
+
+[submodule "WithPrice/addons_qlptn12"]
+	path = WithPrice/addons_qlptn12
+	url = git@github.com:WithPrice/addons_qlptn12.git
+	branch = master
